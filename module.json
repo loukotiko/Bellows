@@ -5,7 +5,7 @@
   "authors": [
     {
       "name": "casualchameleon",
-      "url": "https://github.com/casualchameleon"
+      "url": "https://github.com/lozanoje"
     },
     {
       "name": "temportalflux",
@@ -25,9 +25,9 @@
     "./templates/import-youtube-playlist.html"
   ],
   "url": "https://github.com/casualchameleon/Bellows",
-  "manifest": "https://raw.githubusercontent.com/casualchameleon/Bellows/master/module.json",
-  "download": "https://github.com/casualchameleon/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
-  "license": "https://github.com/casualchameleon/Bellows/blob/master/LICENSE",
+  "manifest": "https://raw.githubusercontent.com/lozanoje/Bellows/master/module.json",
+  "download": "https://github.com/lozanoje/Bellows/releases/download/0.3.2/bellows_0.3.2.zip",
+  "license": "https://github.com/lozanoje/Bellows/blob/master/LICENSE",
   "socket": true,
   "debugBuildDirectory": "D:\\Documents\\FoundryVTT\\Data\\modules",
   "packageItems": [
